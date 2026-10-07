@@ -136,5 +136,5 @@ footer{display:flex;justify-content:space-between;gap:12px;padding:22px var(--pa
 .en .watch{color:var(--onred);border-color:var(--onred)}
 
 /* títulos con letras en inglés: otra proporción, misma caja que la versión en español */
-.hero-word.hero-word-en{height:auto;margin-top:33px}
+.hero-word.hero-word-en{width:139px;height:auto;margin-top:36px}
 .about-title-en img{width:auto;height:58px}
